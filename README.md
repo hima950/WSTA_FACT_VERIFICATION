@@ -17,7 +17,7 @@ Fact Verification System for Unimeln WSTA course by Team: White&Brown.
 
 *Label Prediction and tuning Bert:*
 
-5. This notebook [Label Prediction Notebook](https://github.com/hima950/WSTA_FACT_VERIFICATION/blob/master/label_selection_sentences.ipynb) formats the claim and combined evidence pairs into the format of RTE (GLUE DATASET) for the BERT Label Prediction TUNING. It creates the train.tsv, dev.tsv and test.tsv.
+5. This notebook [Label Prediction Notebook](https://github.com/hima950/WSTA_FACT_VERIFICATION/blob/master/label_prediction.ipynb) formats the claim and combined evidence pairs into the format of RTE (GLUE DATASET) for the BERT Label Prediction TUNING. It creates the train.tsv, dev.tsv and test.tsv.
 
 6. Please make sure the datasets are created and use `bert_train_label.sh` to tune the weights just as before. `bert_test_label.sh` is used to make predictions.
 Note: a file `eval_results.txt` created while tuning which contains the evaluation accuracy.
