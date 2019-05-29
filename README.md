@@ -5,7 +5,7 @@ Fact Verification System for Unimeln WSTA course by Team: White&Brown.
 
 
 ## BERT Preparation and Running:
-1.Download the pretrained weights to be tuned. [BERT-Base Uncased](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)
+1. Download the pretrained weights to be tuned. [BERT-Base Uncased](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)
 
 2. Unzip the bert.zip it is modified version of BERT repository.
 
