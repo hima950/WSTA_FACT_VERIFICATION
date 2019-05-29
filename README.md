@@ -1,4 +1,4 @@
-# WSTA_FACT_VERIFICATION
+# Automatic Fact Verification Project
 Fact Verification System for Unimeln WSTA course by Team: White&Brown.
 
 # INSTRUCTIONS FOR RUNNING:
